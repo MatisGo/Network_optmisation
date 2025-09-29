@@ -1,0 +1,10 @@
+OPTIMAL SHOP PLACEMENTS
+=======================
+FINAL SHOP PLACEMENTS: {'ICA': np.uint32(1), 'Mathem': np.uint32(12), 'Postnord': np.uint32(1), 'Airmee': np.uint32(12)}
+
+ICA: Bus 1
+Mathem: Bus 12
+Postnord: Bus 1
+Airmee: Bus 12
+
+Standard deviation of max line loadings: 8.2688
