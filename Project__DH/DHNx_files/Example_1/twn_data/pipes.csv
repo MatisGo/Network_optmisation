@@ -1,0 +1,14 @@
+id,from_node,to_node,length
+0,producers-0,forks-2,885
+1,producers-1,forks-0,2404
+2,forks-0,forks-1,1292
+3,forks-0,forks-2,2238
+4,forks-2,forks-3,1238
+5,forks-3,forks-4,2224
+6,forks-3,forks-5,1757
+7,forks-5,forks-6,1512
+8,forks-1,consumers-2,1111
+9,forks-3,consumers-3,681
+10,forks-4,consumers-0,1148
+11,forks-4,consumers-1,1148
+12,forks-6,consumers-4,1086
