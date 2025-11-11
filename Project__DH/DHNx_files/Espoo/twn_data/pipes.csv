@@ -14,3 +14,15 @@ id,from_node,to_node,length
 12,forks-6,forks-7,1900
 13,forks-7,consumers-4,3400
 14,forks-6,consumers-0,5800
+15,forks-7,forks-8,2200
+16,forks-8,consumers-8,1800
+17,forks-8,producers-2,2100
+18,forks-6,consumers-7,1600
+19,forks-2,forks-10,2000
+20,forks-10,forks-9,1900
+21,forks-9,consumers-5,1200
+22,forks-9,consumers-6,1400
+23,forks-10,producers-3,2300
+24,forks-9,producers-4,2800
+25,forks-3,forks-11,2100
+26,forks-11,consumers-9,1500
