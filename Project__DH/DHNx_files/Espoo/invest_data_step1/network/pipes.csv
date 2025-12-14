@@ -1,3 +1,7 @@
 label_3,active,nonconvex,l_factor,l_factor_fix,cap_max,cap_min,capex_pipes,fix_costs
 DN30,1,1,0.00008,0.02233,1000,550,2.04988,585.68
+<<<<<<< HEAD
 DN50,1,1,0.00005,0.02405,5000,1000,1.648,659.2
+=======
+DN50,1,1,0.00005,0.02405,5000,1000,1.648,659.2
+>>>>>>> 0c7ab2dfdffa39fde2f613e8e954243c681cb078
